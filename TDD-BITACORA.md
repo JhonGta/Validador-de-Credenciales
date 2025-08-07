@@ -1,7 +1,7 @@
 # BITÁCORA DEL CICLO TDD - VALIDADOR DE CREDENCIALES
 
 ## Proyecto: Validador de Contraseñas
-**Estudiante:** [Tu nombre]  
+**Estudiante:** Jhon Guamám
 **Fecha:** 6 de Agosto, 2025  
 **Framework:** JavaScript con Jest  
 
